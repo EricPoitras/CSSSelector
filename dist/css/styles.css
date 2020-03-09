@@ -1,0 +1,52 @@
+.response {
+	background-color: #007bff !important;
+}
+.target {
+	background-color: #007bff50;
+}
+div .col-6 * {
+	border: 1px solid white;
+	padding: 10px;
+	margin: 10px;
+	color: white;
+}
+#cont_score {
+	position: absolute;
+	top: 25px;
+	right: 25px;
+	color: lightgray;
+}
+#cont_inst {
+	position: absolute;
+	top: 25px;
+	left: 25px;
+	color: lightgray;
+	width: 400px;
+}
+#cont_html {
+	position: absolute;
+	bottom: 25px;
+	right: 25px;
+	width: 400px;
+	color: lightgray;
+}
+#cont_css {
+	position: absolute;
+	bottom: 25px;
+	left: 25px;
+	width: 400px;
+}
+#cont_css h5 {
+	color: lightgray;
+}
+#cont_lester_score {
+	color: lightblue;
+	position: absolute;
+	top: 75px;
+	right: 25px;
+}
+#cont_progress {
+	position: absolute;
+	top: 150px;
+	right: 25px;
+}
